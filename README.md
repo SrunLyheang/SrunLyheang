@@ -108,16 +108,14 @@ A movie review website built as a team project using **HTML, CSS, and JavaScript
 
 A full-stack chat application featuring real-time messaging, authentication, friends, media sharing, and other communication features.
 
-### 📋 Clipboard Hub
 
-An app concept for organizing and storing copied text across devices, designed to make frequently used snippets easier to manage.
+## Research Bot
+A Telegram research bot for a Cambodian wholesale import and distribution business.
 
-### 🎓 University Course Planner
+It helps the team look up overseas supplier candidates, check whether they are worth pursuing, and keep everything in one place instead of chasing leads across scattered notes and messages
 
-A project concept focused on helping students plan their degree, track credits, understand prerequisites, and monitor graduation progress.
 
 > More projects and experiments are available in my repositories.
-
 ---
 
 
@@ -134,9 +132,10 @@ I'm less interested in knowing everything and more interested in **building enou
 <div align="center">
 
 <a href="https://github.com/SrunLyheang">
-
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-
+</a>
+<a href="mailto:Srunlyheang02@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Srunlyheang02%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 </div>
